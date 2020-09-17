@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2020/09/14/first-sighting-of.html",
+				
+				"content_html": "<p>First sighting of some clouds and a bit of blue sky after several days. Nice to see but this isn&rsquo;t over yet.</p>\n\n<p><img src=\"https://samgrover.com/uploads/2020/4c5ad2569e.jpg\" alt=\"\" /></p>\n\n<p>Uploaded using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "First sighting of some clouds and a bit of blue sky after several days. Nice to see but this isn't over yet.\n\n![](https://samgrover.com/uploads/2020/4c5ad2569e.jpg)\n\nUploaded using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2020-09-14T19:14:03-07:00",
+				"url": "https://samgrover.com/2020/09/14/first-sighting-of.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2020/09/13/were-sending-smoke.html",
+				
+				"content_html": "<p>We&rsquo;re sending smoke to midwest and east coast. You&rsquo;re welcome!</p>\n\n<p><img src=\"https://samgrover.com/uploads/2020/7444a98dad.jpg\" alt=\"\" /></p>\n",
+				"content_text": "We're sending smoke to midwest and east coast. You're welcome!\r\n\r\n![](https://samgrover.com/uploads/2020/7444a98dad.jpg)\n",
+				"date_published": "2020-09-13T11:35:33-07:00",
+				"url": "https://samgrover.com/2020/09/13/were-sending-smoke.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2020/09/11/on-a-walk.html",
+				
+				"content_html": "<p>On a walk in the neighborhood a couple of days ago before the AQI got really bad.</p>\n\n<p><img src=\"https://samgrover.com/uploads/2020/5e8f23140b.jpg\" alt=\"\" /></p>\n\n<p>The Sun was a red dot. Now it&rsquo;s not even visible.</p>\n\n<p><img src=\"https://samgrover.com/uploads/2020/aeb399c675.jpg\" alt=\"\" /></p>\n\n<p>We&rsquo;ve been having a lot of smoke from wildfires in the state. It&rsquo;s an emergency and has been reported about in major news so I won&rsquo;t go into details. We&rsquo;re taking care and staying indoors until the AQI improves, which is expected in a couple of days 🤞</p>\n\n<p>Uploaded using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "On a walk in the neighborhood a couple of days ago before the AQI got really bad.\n\n![](https://samgrover.com/uploads/2020/5e8f23140b.jpg)\n\nThe Sun was a red dot. Now it's not even visible.\n\n![](https://samgrover.com/uploads/2020/aeb399c675.jpg)\n\nWe've been having a lot of smoke from wildfires in the state. It's an emergency and has been reported about in major news so I won't go into details. We're taking care and staying indoors until the AQI improves, which is expected in a couple of days 🤞\n\nUploaded using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2020-09-11T15:53:07-07:00",
+				"url": "https://samgrover.com/2020/09/11/on-a-walk.html"
+			},
+			{
 				"id": "http://samgrover.micro.blog/2020/09/08/excited-about-the.html",
 				"title": "Excited about the next version of Mimi Uploader for iOS 14",
 				"content_html": "<p>For various reasons, I&rsquo;ve not been able to give Mimi the time and attention I&rsquo;d hoped over the last several months, but I&rsquo;m actively trying to change that. I&rsquo;m working on an update that takes a fresh approach to the photo selection flow by utilizing new features coming in iOS 14.</p>\n\n<p>iOS 14 has a powerful new system provided photo picker that lets users pick photos from their library. The new picker has great features for browsing, searching, making multiple selections, etc. This is perfect for apps like Mimi where people can pick the photos they want to upload with minimum friction and with an experience that feels true to iOS. I&rsquo;m very conscious of privacy in apps, so it gives me great joy to note that with this new picker Mimi will no longer need to ask for Photos permission.</p>\n\n<p>I had planned to enhance the original photo selection screen with new features for better selection, but now I can utilize that time towards other features that folks have requested. Features that I think will be a lot more useful in the long term, like support for the share sheet, and drag and drop, that allows sending photos into Mimi from other apps. And I have more ideas that I hope to share after this initial set of work is complete.</p>\n\n<p>I can&rsquo;t wait to bring this new experience to you sometime after iOS 14 launches this Fall. I appreciate your support and comments. If you&rsquo;ve liked using Mimi, I&rsquo;d love it if you could <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">give it a rating or review on the App Store</a>. Thank you!</p>\n",
