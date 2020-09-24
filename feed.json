@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2020/09/24/some-people-im.html",
+				
+				"content_html": "<p>Some people: I&rsquo;m concerned about always on recording devices, so I only have them in certain parts of my home/office.</p>\n\n<p>Amazon: <a href=\"https://www.theverge.com/2020/9/24/21453709/ring-always-home-cam-indoor-drone-security-camera-price-specs-features-amazon\">Hold my beer</a>.</p>\n",
+				"content_text": "Some people: I'm concerned about always on recording devices, so I only have them in certain parts of my home/office.\r\n\r\nAmazon: [Hold my beer](https://www.theverge.com/2020/9/24/21453709/ring-always-home-cam-indoor-drone-security-camera-price-specs-features-amazon).\n",
+				"date_published": "2020-09-24T11:15:28-07:00",
+				"url": "https://samgrover.com/2020/09/24/some-people-im.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2020/09/20/i-almost-made.html",
+				
+				"content_html": "<p>I almost made an app last year that would give me this kind of a notification. And now it&rsquo;s built in!</p>\n\n<p><img src=\"https://samgrover.com/uploads/2020/f516e1ff23.jpg\" alt=\"\" /></p>\n\n<p>Oh, and this was also part of my theoretical feature set:</p>\n\n<p><img src=\"https://samgrover.com/uploads/2020/4bb72fe77f.jpg\" alt=\"\" /></p>\n\n<p>Uploaded using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "I almost made an app last year that would give me this kind of a notification. And now it's built in!\n\n![](https://samgrover.com/uploads/2020/f516e1ff23.jpg)\n\nOh, and this was also part of my theoretical feature set:\n\n![](https://samgrover.com/uploads/2020/4bb72fe77f.jpg)\n\nUploaded using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2020-09-20T18:30:00-07:00",
+				"url": "https://samgrover.com/2020/09/20/i-almost-made.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2020/09/20/over-the-last.html",
+				
+				"content_html": "<p>Over the last few days I&rsquo;ve released daily updates to the Mimi Uploader beta. I expect that the most recent one from a few minutes ago will be the last. Hopefully I will submit the app for review tomorrow or the day after after I complete all the release tasks.</p>\n\n<p>If you have any more feedback, please do let me know soon. You can get the beta at: <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">https://apps.apple.com/us/app/mimi-uploader/id1484555696</a>.</p>\n\n<p>Thank you!</p>\n",
+				"content_text": "Over the last few days I've released daily updates to the Mimi Uploader beta. I expect that the most recent one from a few minutes ago will be the last. Hopefully I will submit the app for review tomorrow or the day after after I complete all the release tasks.\n\nIf you have any more feedback, please do let me know soon. You can get the beta at: [https://apps.apple.com/us/app/mimi-uploader/id1484555696](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n\nThank you!\n",
+				"date_published": "2020-09-20T11:54:00-07:00",
+				"url": "https://samgrover.com/2020/09/20/over-the-last.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2020/09/18/new-version-of.html",
+				"title": "New version of Mimi Uploader is now available on Testflight",
+				"content_html": "<p>A new version of <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi Uploader</a> is now available for beta testing on Testflight. It requires iOS 14.</p>\n\n<p>If you were on the beta test before, and are now on iOS 14, please give it a shot.</p>\n\n<p>If you haven&rsquo;t been on the beta and would like to be, you can join using this link: <a href=\"https://testflight.apple.com/join/AbjtGWge\">https://testflight.apple.com/join/AbjtGWge</a></p>\n",
+				"content_text": "A new version of [Mimi Uploader](https://apps.apple.com/us/app/mimi-uploader/id1484555696) is now available for beta testing on Testflight. It requires iOS 14.\n\nIf you were on the beta test before, and are now on iOS 14, please give it a shot.\n\nIf you haven't been on the beta and would like to be, you can join using this link: [https://testflight.apple.com/join/AbjtGWge](https://testflight.apple.com/join/AbjtGWge)\n",
+				"date_published": "2020-09-18T21:46:33-07:00",
+				"url": "https://samgrover.com/2020/09/18/new-version-of.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2020/09/17/i-made-a.html",
+				
+				"content_html": "<p>I made a little weather dashboard app years ago. It&rsquo;s only on my iPhone. One visual detail I added was using the AQI colors on the values. And boy that&rsquo;s gotten a lot of use this week!</p>\n\n<p><img src=\"https://samgrover.com/uploads/2020/3f40a3b540.jpg\" alt=\"\" /></p>\n\n<p>Uploaded using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "I made a little weather dashboard app years ago. It's only on my iPhone. One visual detail I added was using the AQI colors on the values. And boy that's gotten a lot of use this week!\n\n![](https://samgrover.com/uploads/2020/3f40a3b540.jpg)\n\nUploaded using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2020-09-17T08:14:31-07:00",
+				"url": "https://samgrover.com/2020/09/17/i-made-a.html"
+			},
+			{
 				"id": "http://samgrover.micro.blog/2020/09/14/first-sighting-of.html",
 				
 				"content_html": "<p>First sighting of some clouds and a bit of blue sky after several days. Nice to see but this isn&rsquo;t over yet.</p>\n\n<p><img src=\"https://samgrover.com/uploads/2020/4c5ad2569e.jpg\" alt=\"\" /></p>\n\n<p>Uploaded using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
