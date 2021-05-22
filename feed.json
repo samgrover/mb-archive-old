@@ -7,11 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://samgrover.micro.blog/2021/05/22/im-trying-out.html",
+				
+				"content_html": "<p>I&rsquo;m trying out a new image layout algorithm for the main screen on Mimi Uploader. The idea is to utilize more of the screen real estate and to adjust the size of each photo based on the total number.</p>\n\n<p>Here&rsquo;s a before/after in the portrait orientation.</p>\n\n<p><a href=\"https://samgrover.com/uploads/2021/92b6a70727.jpg\"><img src=\"https://samgrover.com/uploads/2021/92b6a70727.jpg\" alt=\"\" /></a></p>\n\n<p>And here&rsquo;s one in the landscape orientation.\n<a href=\"https://samgrover.com/uploads/2021/67e4cc00f6.jpg\"><img src=\"https://samgrover.com/uploads/2021/67e4cc00f6.jpg\" alt=\"\" /></a></p>\n\n<p>I&rsquo;m quite encouraged by this and already finding it useful in development.</p>\n\n<p>What do you think?</p>\n",
+				"content_text": "I'm trying out a new image layout algorithm for the main screen on Mimi Uploader. The idea is to utilize more of the screen real estate and to adjust the size of each photo based on the total number.\r\n\r\nHere's a before/after in the portrait orientation.\r\n\r\n[![](https://samgrover.com/uploads/2021/92b6a70727.jpg)](https://samgrover.com/uploads/2021/92b6a70727.jpg)\r\n\r\nAnd here's one in the landscape orientation.\r\n[![](https://samgrover.com/uploads/2021/67e4cc00f6.jpg)](https://samgrover.com/uploads/2021/67e4cc00f6.jpg)\r\n\r\nI'm quite encouraged by this and already finding it useful in development.\r\n\r\nWhat do you think?\n",
+				"date_published": "2021-05-22T14:46:52-07:00",
+				"url": "https://samgrover.com/2021/05/22/im-trying-out.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2021/05/17/aannnnd-now-its.html",
+				
+				"content_html": "<p>Aannnnd now it&rsquo;s been two weeks since my second shot of Moderna. Full effectiveness! So, who&rsquo;s up for hanging out?! 🎉</p>\n",
+				"content_text": "Aannnnd now it's been two weeks since my second shot of Moderna. Full effectiveness! So, who's up for hanging out?! 🎉\n",
+				"date_published": "2021-05-17T11:45:00-07:00",
+				"url": "https://samgrover.com/2021/05/17/aannnnd-now-its.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2021/05/16/recent-uploads-on.html",
+				"title": "Recent Uploads on Mimi Uploader",
+				"content_html": "<p>A new version of <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi Uploader</a> is now out with my favorite new feature in a while. <strong>You can now access your Recent Uploads for reference or export!</strong> 🎉</p>\n\n<p><a href=\"https://samgrover.com/uploads/2021/5627108d83.png\"><img src=\"https://samgrover.com/uploads/2021/5627108d83.png\" alt=\"\" /></a></p>\n\n<p>Recent Uploads can be accessed by the icon on the top left of the main screen. Once in there, you can see a list of your ten most recent uploads sessions. Each of those can be independently exported to get the URLs in Markdown or HTML. Now if you miss exporting right after an upload, or somehow lose the exported text, you can still get to it later. I hope you enjoy this feature and find it useful like I do.</p>\n\n<p>This release has been a long time coming. Working on this app is another one of those things that&rsquo;s slowed down in the pandemic. I&rsquo;m hoping to give it more attention in the future and have a list of features and improvements that I would like to bring to you.</p>\n\n<p>If you find Mimi useful, please let others know, and <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">leave a rating and/or review</a>. It is very much appreciated.</p>\n\n<p>Thank you for your support 😊</p>\n\n<hr />\n\n<p>Images uploaded using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "A new version of [Mimi Uploader](https://apps.apple.com/us/app/mimi-uploader/id1484555696) is now out with my favorite new feature in a while. **You can now access your Recent Uploads for reference or export!** 🎉\n\n[![](https://samgrover.com/uploads/2021/5627108d83.png)](https://samgrover.com/uploads/2021/5627108d83.png)\n\nRecent Uploads can be accessed by the icon on the top left of the main screen. Once in there, you can see a list of your ten most recent uploads sessions. Each of those can be independently exported to get the URLs in Markdown or HTML. Now if you miss exporting right after an upload, or somehow lose the exported text, you can still get to it later. I hope you enjoy this feature and find it useful like I do.\n\nThis release has been a long time coming. Working on this app is another one of those things that's slowed down in the pandemic. I'm hoping to give it more attention in the future and have a list of features and improvements that I would like to bring to you.\n\nIf you find Mimi useful, please let others know, and [leave a rating and/or review](https://apps.apple.com/us/app/mimi-uploader/id1484555696). It is very much appreciated.\n\nThank you for your support 😊\n\n---\n\nImages uploaded using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2021-05-16T11:05:00-07:00",
+				"url": "https://samgrover.com/2021/05/16/recent-uploads-on.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2021/05/13/new-fence-and.html",
+				"title": "New Fence and Pergola",
+				"content_html": "<p>We recently replaced an old failing fence with a new one, and also got a pergola built. I took before and after pictures, and it&rsquo;s really nice to see the improvement.</p>\n\n<p><a href=\"https://samgrover.com/uploads/2021/5287181f4f.jpg\"><img src=\"https://samgrover.com/uploads/2021/5287181f4f.jpg\" alt=\"\" /></a></p>\n\n<p><a href=\"https://samgrover.com/uploads/2021/98b8c52421.jpg\"><img src=\"https://samgrover.com/uploads/2021/98b8c52421.jpg\" alt=\"\" /></a></p>\n\n<p><a href=\"https://samgrover.com/uploads/2021/9abb53629b.jpg\"><img src=\"https://samgrover.com/uploads/2021/9abb53629b.jpg\" alt=\"\" /></a></p>\n\n<p>And here is a photo of the pergola that is in the garden, adjacent to the fence. It is a really nice space and we&rsquo;ve been enjoying using it, and look forward to spending more time there, even with friends!</p>\n\n<p><a href=\"https://samgrover.com/uploads/2021/99ee591e85.jpg\"><img src=\"https://samgrover.com/uploads/2021/99ee591e85.jpg\" alt=\"\" /></a></p>\n\n<p>If you&rsquo;re local to Portland, these projects were done by <a href=\"http://builderbybike.com/\">Chris Sanderson</a>, and I gladly recommend him for your projects.</p>\n\n<p>Images uploaded using <a href=\"https://apps.apple.com/us/app/mimi-uploader/id1484555696\">Mimi</a>.</p>\n",
+				"content_text": "We recently replaced an old failing fence with a new one, and also got a pergola built. I took before and after pictures, and it's really nice to see the improvement.\n\n[![](https://samgrover.com/uploads/2021/5287181f4f.jpg)](https://samgrover.com/uploads/2021/5287181f4f.jpg)\n\n[![](https://samgrover.com/uploads/2021/98b8c52421.jpg)](https://samgrover.com/uploads/2021/98b8c52421.jpg)\n\n[![](https://samgrover.com/uploads/2021/9abb53629b.jpg)](https://samgrover.com/uploads/2021/9abb53629b.jpg)\n\nAnd here is a photo of the pergola that is in the garden, adjacent to the fence. It is a really nice space and we've been enjoying using it, and look forward to spending more time there, even with friends!\n\n[![](https://samgrover.com/uploads/2021/99ee591e85.jpg)](https://samgrover.com/uploads/2021/99ee591e85.jpg)\n\nIf you're local to Portland, these projects were done by [Chris Sanderson](http://builderbybike.com/), and I gladly recommend him for your projects.\n\nImages uploaded using [Mimi](https://apps.apple.com/us/app/mimi-uploader/id1484555696).\n",
+				"date_published": "2021-05-13T09:40:00-07:00",
+				"url": "https://samgrover.com/2021/05/13/new-fence-and.html"
+			},
+			{
+				"id": "http://samgrover.micro.blog/2021/05/11/a-new-build.html",
+				
+				"content_html": "<p>A new build of Mimi Uploader beta is out. In case you&rsquo;ve been using this recently, let me know if you have any feedback, especially on the new Recent Uploads feature. Thanks!</p>\n",
+				"content_text": "A new build of Mimi Uploader beta is out. In case you've been using this recently, let me know if you have any feedback, especially on the new Recent Uploads feature. Thanks!\n",
+				"date_published": "2021-05-11T18:06:36-07:00",
+				"url": "https://samgrover.com/2021/05/11/a-new-build.html"
+			},
+			{
 				"id": "http://samgrover.micro.blog/2021/05/11/extract-url-from.html",
 				"title": "Extract URL From Apple News URL",
-				"content_html": "<p>I wrote a small script to convert an Apple News URL into a regular URL. Here it is.</p>\n\n<script src=\"https://gist.github.com/samgrover/acb966142f1bc7e182ba56ecf9979850.js\"></script>\n\n<p>I usually need this on macOS and have a terminal handy so a Python script works well for me. You could extract that logic and make a different automation out of it, e.g. an iOS Shortcut. Do share if you do :-)</p>\n",
-				"content_text": "I wrote a small script to convert an Apple News URL into a regular URL. Here it is.\r\n\r\n<script src=\"https://gist.github.com/samgrover/acb966142f1bc7e182ba56ecf9979850.js\"></script>\r\n\r\nI usually need this on macOS and have a terminal handy so a Python script works well for me. You could extract that logic and make a different automation out of it, e.g. an iOS Shortcut. Do share if you do :-)\n",
-				"date_published": "2021-05-11T18:02:45-07:00",
+				"content_html": "<p>I wrote a small script to convert an Apple News URL into a regular URL. Here it is.</p>\n\n<script src=\"https://gist.github.com/samgrover/acb966142f1bc7e182ba56ecf9979850.js\"></script>\n\n<p>I usually need this on macOS and have a terminal handy so a Python script works well for me. You could extract the logic and make a different automation out of it, e.g. an iOS Shortcut. Do share if you do :-)</p>\n",
+				"content_text": "I wrote a small script to convert an Apple News URL into a regular URL. Here it is.\n\n<script src=\"https://gist.github.com/samgrover/acb966142f1bc7e182ba56ecf9979850.js\"></script>\n\nI usually need this on macOS and have a terminal handy so a Python script works well for me. You could extract the logic and make a different automation out of it, e.g. an iOS Shortcut. Do share if you do :-)\n",
+				"date_published": "2021-05-11T18:02:00-07:00",
 				"url": "https://samgrover.com/2021/05/11/extract-url-from.html"
 			},
 			{
